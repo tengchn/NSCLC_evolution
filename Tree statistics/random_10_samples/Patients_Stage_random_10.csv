@@ -1,0 +1,13 @@
+﻿Patient,stage,type,status,Random_sampled_cells,Number_of_sites
+16011,IB,Adenocarcinoma,NR,10,5023
+16031,I,Squamous,NR,0,0
+17004,IA,Squamous,NR,10,5539
+17005,IA,Squamous,NR,10,5112
+17008,IA,Adenocarcinoma,NR,10,7027
+17011,IB,Adenocarcinoma,NR,10,4094
+17012,IIA,Adenocarcinoma,NR,10,6079
+17017,IIB,Large,Metastasis,10,4819
+17028,IA,Adenocarcinoma,NR,10,3286
+17029,IV,Spindle,Metastasis,10,3510
+17030,IB,Adenocarcinoma,NR,7,1621
+18001,IIB,Adenocarcinoma,Metastasis,9,2316

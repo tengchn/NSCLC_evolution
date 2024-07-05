@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<beast beautitemplate='Standard' beautistatus=''
+	       namespace="beast.core:
+	        beast.core.parameter:
+	        beast.core.util:
+	        beast.evolution.datatype:
+	        beast.evolution.alignment:
+	        beast.evolution.operators:
+	        beast.evolution.sitemodel:
+	        beast.evolution.tree.coalescent:
+	        beast.core.util:beast.evolution.nuc:
+	        beast.evolution.substitutionmodel:
+	        beast.evolution.likelihood:
+	        beast.evolution.tree:
+	        beast.evolution.tree.coalescent:
+	        beast.math.distributions:
+	        phylonco.beast.evolution.substitutionmodel:
+	        phylonco.beast.evolution.errormodel:
+	        phylonco.beast.evolution.likelihood" required="" version="2.6">
+	 
+    <!-- Diploid sequence -->
+    <data id="17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16" dataType="nucleotideDiploid16">
+    <sequence taxon="17030p4A01_S71_001.markdup.realigned.bam">?5Rf0005555a?f5af5aaa0555fff055af5f0f00f5000fa555aa0f5505aaa05af500f0R?????faa5a5aa0f?55???f5?5ffYY55af5ff0ffR?a?00R?f5af?ff???f5fff00aafRa00a5505Y5??YYRR5055000af50aa0ffa5f5SSf???Rf5f0af5aYY55a0?f55505a55fa0f5M???5f550f0aKRR5f55faaYaRa550Rf5f???fY5YfYaY55?YS??0fM55Yf?fa?000Y50???????f?????????????????????05RfffYa??055?R?0f5?505f550a0SSYYMR???5???af?0fa55?0faRY?5f0f5??00?MYYS?Rffa?a5afR0????05?a0aafR0af???RfaKaa55a0????a?05??????f??????0M?5fa?f??5??M????0ff00K?500????aaa00505000fa0?????????0af?Y00a????aRYMR5RWK0a????af?Yaa0fa5RWKYK???5??5ffRa5R0fW?????0a?fYYaY?aff5?0??55f?0???????fR0?a5?Y??f?ffaa05a05a?????a500??????f0?MM0??SfaYfY5a505f0a0?55a550?Kff??SR???f05?????????????0?????R5?0?0?5????5fa0?5f???af??a0a?a000?a50a0a00?f??5????0??aa??f??Ma0?a??5f?K0555a05????5a?a0??a???a50a50fffa500Ra55f5f?5f?0????f550Sfff05???05a5a???YYK??faaaaR????????50?5?0??f00a0?5f5a555a?fRYYMRf?05555a???0a0aa00f5af555a??R5f??????????????MRaS??0??RfR?5???fY???f5af0ffa0??????f0????a5??Y???0?5faK0a0fY?????f005???fa5??0??fYa?0?5a?Rf????fa5f?fa5???af?5?????f0R5fK???f05YY5KMf5R5Yf???fR????f???????????????5?????f????5Saf0a5a5aRRYY?W0????af??a5?0???5f??f????00f?????f????????5????f0??????????????fa????????5?ff??50aKa0f?f?????a?aaa50?f????5?????????f???R5R???aff0???fYY5fYa???????0KRSRYYRYM?????????????????????????aa?????????50?Yf???????????????????????????????????????????????????????????????????????????WS5fK5MY500W5KSSR5aWWfaSa0YRRSRMYYYRRSaSKYfafaf055fafffffff005ffa00????????????f0a5af????0f0Y0???????0???Y?ff?a5?????Wf?0f??005??a0500?0YRRY??a55?????????????Mf55R???????aaf??????????fa?YY??0f?MYK??05a??55f?MS?????05?5????5?55????f</sequence>
+    <sequence taxon="17030p4B01_S83_001.markdup.realigned.bam">Y5??0MRMS5f055Y???KSKWY5YWY5R55RYYYRY????000faS5YRaRf5505aaa05af500f0?5a5aa00RSSaa???0aYaaa??a5faf?55afY????5af0f0a?RfYRW55?aYa?Ya5?00RRY0KWRRYYWYYYafYYRa?????????????????????5Y5a5RYfaa055af5MYa05????05a55faRYf5RYYYYMMWW0RfR0?f5?f?a5a0R?fR?f0?af5YY5fYY???55f5a5?5?f5ff550aaRa5fff5f555a55a5aa5ff505a55a0a500505??ff?af55Yf0RRW5Y5???K550a0SSYYMRWRW5ff5R5R?5fYa5a5K??55f0f5Y5a5a????a0???5Rf550a55R5RSW0aaKf00?5Yf5af0afaY??00afaaa??aafY5afR5f5aR0?5ffa55fRf05Ma5ff?YYMRK05??0af5aaaa05a?????R0aMa55ffYa?500500?05af?aYMR5RWK0?0aaRaf05KRRYRY0fKYff550f0Yff??YR0ffa0Yf5Ra5?55K5f0??faRf0MM0YaYWM0afa??afaf05a5Kff5a????afaaff0f?500RW0aRRfRa05050a?0??5YRf05f??00f5?5f05Kf0aYaaa5afW?SRY0505SaMfa5550ffRaaa0a?f?f550YWR?05f05005RYaa5fa0000RY5aMS00ffa5SYRM50R000a55K050a0aaa??af0??????0f555afa0aa0R5f????????????0a?aMY5f5fYY?ff555f00a5YY05YYR?faf?05f???fafaaaaRSMaf05aY50S?0?05f00a0f??SS5?5a550ff005fafMYYRaY5000a?MMY?aY5S??5faa5faa50f00afa00a5aR55aaf0a??5aa0YWfafRfSaf0ff??Y050aaYa5RYK5?fafYff0fa50fa0a0f000a0f005aRa?0f0f0555??0aaSRfaa50f5fa5fYfa55a0a?M?aRRYMf0R5fK000f0YY5Sa5W5R55ff5ffa0f5550ffa5aa5a555Y5Y?af000fa550Ya?f0a5a5aRRY?0??00f00YKa?fR00f00YRf?0R0Ya0fa0a0f?0a005ff5ffaa5fa5a5faaaa55fSYafa5aaaRaMf5a??MR?RSaa0faY050MSRRaaa50R0fYYY5a5a00a0aafKa0a?a55a?f50Y0afYf?5YRRR5050fa?????????50a50f05af505afMS5aRYK50aaa0a05a5a0f50R?ffRaffff55RM0fa5fYYSKKRSYYR5SYYRRRMKaKKSKaS0W5fa5a5afa5aKRWWSWfKaRSWRYKS0RRYWSYWKMMYM0RW5KSSRMRWWYR5KRf0a5a55f5005Kaf5YRYRYRYYYSfffffff005ffa00fYYRYMYR55f5YR0f0505Y50f05fRYfYSRR050M55ff50faY005f500f5000?0f0055?Y0YRafaY0?5fKYaf55SY05MY0W55aM5Y5f0K??fYSK5K0fYY550ff5aa0YM05aff?5?05?5?50S055aa05f?0a50f0f?005aK</sequence>
+    <sequence taxon="17030p4C01_S95_001.markdup.realigned.bam">YYRf????555a5??af5aaa0555fff055af5f0f00f5000fa555aa0f5505aaa05af500f0R5aaaafaaSS5RSMY0a?Raaf5a0fff5????Y5Y0f5?f0fa?a0?5RW5f0a50f5ff500?Rf?a00a5fff5faf???R5055000af50aa0ffa5ffaaf5a5??faa????ff55KM55a5Y05a5???a5f50ff55550f???RRYfY5f0?5???5??a??faY5555ff5f55?ff505a50??Yf5500??0??0f5f5550f5a5aa5ff505a55a0a50a5??Rf?ffaf505?00a?5?5faf?YYafa555f50f00fff5aYR0faYSM0YaRY5Yf0f555a5a0ff5a0ffaf????0055a5Ra000aa5??aY55f0??????f0?0RYaaa0faaff5afR5f5aa?5affaf5fafRf?0fYY05YMRK0?000aW5RR50a5?fa00f??a00Y5YfY50afRfaaa05afR0f00f0ff0a0RRR0f05aa0fa??????YYf5WMYfYR55R0ffa055YaR5f????f05aYRRa0550faY050afa5a0faf05a5K55?aa05aafa0KY0Y0?0R0WWRaa??a??R0aaf?5f550fa??a0W0?5a5?aYff?afaa0fR5WYSRY0505aR55KY?50ffa0a00S0f5YYfR???00ff05005RfR0afa000R0??a??00ffa5?YRM50a0aaRf5a550a0RaRf5af?5ff0aaRfa55afSRRRR0YYa50a50fffa5Raa0a????Y5f5005ff?f005fY50555a05SY505Wf5afaf5000aa0RfMaRf0a5SR0a5f00a0fY5SS?55aM50ff0?Yfaf0ff0Rf5??a0a???fK5f5YRYKaa5faa50f00SYa00a5aR5Ya?YR?fR5?aa5Wfafaf5af0fffafR5a00?af0fa?5f0?f500f5f?????ffRRRRR?0050Rff?f0fa55?5R0aa??f??Sa5Yfa5f5f??faa?Y5Yaaa55a0aY5aR0MfR5??????YaY5f5afK0RYYYf0ffSYaa5a5f05f55af00aYaYYRYaRf0a5a5000550fR00fa?fa00YRR0fRMfaff00050??a0RR5faaRaf5f5f5R5Yf?5a555aRa55faYaYS5aaaaf0YYa5Y5aMa5aa??a?0Ma0SaR050fR0?fYY5?aMSMRRWKR?a0a?5?55aaaf?f0af5f5?Ya00Y050fRf0aa55a5550a50f05af505af5a5aa5a50a000aa5a5aaffaaf5a0Rffff55aM0fa5fff5afaaf5a5aff0000fafa5faS0W5YSMRYRfaYaKRWWSWfKaRSWRYKS0RRYWaYWKM0fMRR0SK5aaMRf0YR5KR5RRSRMYYYRRSaSKY5RYRYRYY5SYKKYYYKfRYW5RaafYYRYMYafa50?????f0Y5f?Yff00f55aaa?50M55ff50f0fR05?50??50a0YRY???00Y?????Kf?5?fffaf0aa50Y55MW55R5f5a50afaffaa5a0YYYf??5??R00f5???ff0fa055ff55S05faR?555aS50fWf5RRYaa</sequence>
+    <sequence taxon="17030P3B01_S21_001.markdup.realigned.bam">5YRfM0055Y5a5Y5KKSaaa05Y5ff50YSaf5f0fRRaaRRRYR5Y5aR0YSYWSRKRMMRKYMMYR0YSSKRWRR5aSRSMfRSYRRSf5RM5Kf5SYRK5fYa5YaY0fRRaaYY0fYffaYaWYKYf0fRaYRKWRRY5W5fYR5YYRa5a55Ra0aYYMf0RYYKY55SSfYaYRYYKRR5YRff55KM5YSY5WYKMYYRRYY5RYYY5MMWWRafRR5YYSY0R5RRRYYRRf0YaYMY55fY5aY55ff50Y0fMYY?Y5faRaRR55fYSYSM5R?YRYSRYYKY05RYYRRS5R0YRYRYf?YS5Y05fRRa0f55fafaY50a0555f50f00?WKYaYR05KYaMRYKRYYYf0fY55000MYYSR0KYR505af0aYYRYR50RRaK5R0afYYYRYRaK0Yf0aWRY05aRYK55Y5afR5ffRRR5a5YR5Y0R5RY00YfYRYf00fR5RRaRf50R50R5R500RfRMRMRYYYYYSa??0YRRRafffR0f00f0ffRR0RRa?5RYKRRYRY0faffYYf5f0YfYaS5RMYfRRYYYRafY55K55RYKYR0fR5MWYaf05MKWSYRRKKfMYRffYYYaR0YR05R0ffRYRYRR0W0aRRYRR050MR5fRYfYYaYaYYa00R5Ya5Y05?ffRfaaRYaYW550505R5SRMYKYM50YYRR5a0S0Y5YY5aYWR0MYY050afafa?a5RRMRR0Y500aRR5Y0YS5a0Y0RR??afff5MRRR0aRf5aK0Yff0aaRYSY5afSR00R0YYff5fMRKW5RfRRRR55f05Yf5f0WYYYf5MRSfffRY55a0YSY505Wf5aYaf5000aS5aY0Saf0a5S0a05YMRR5KYY5aY5MRMY0ff0RYYa5MYYRRY500a0R00fYKffSf05fRSfYRSYRY00afRRRRMRaS5a0YRR5aYSaRYW5afaYSRYRYYKRYRYRRafR50fa5YfRffY00fSfaK0aRWfaaaRRW505aRKfa5aKaYaY5RfRRa05aaS0ffKSMY5fRYYR0KY55aRRYMKRaf5aRRMfR5YYSa5fYaY5Yf5ffR0f55f0ffa5aa5a55MYYY5RYM0RY0YYRYS0fRRYa5a0055RWR05YRRfa0afRR0fa05R5Ya0W5RM505a0YfRR0055f5YYaSYfR5aSY5aaa55f5faYSMRRRaf0YYSffMR5R5KaRWRYR5RMS00aaa50Rf5f5Y50MSMRRWaafa0aaSRYMSfffff0Rf5f0Y5RRR5aaaYRf0aa55a55MRKSRWRYKYYMYKYMSSKRYKYRRRRaRaMa5a0K50Rf5aRRfffY5SaMRYRYYYYSKKRaYYRYSYYRRaMKKKKSKKSW0YYSMRYRKKYKKRWWSWWKRRSWRYKSMRRfWS5fK5MYMRRWSKSSRMRWWYRSKRf0a5a55f5005faf5fafaf055fafffffff005ffa00fffa55YRYSYMf00f050YYfRY0?WRfYYSR0R50MY5KYYRY0fR0505R0Yfaa0YRYRMM00505aafK5055fKfSfMSSY0YMYMf55R55YSYWaaKfYSK5KRY5ffYR5fYaR0YMMYKYKaYaRMfYf505055Ka0Y5Ma5Y0Y05YRRYRa</sequence>
+    <sequence taxon="17030P3D01_S45_001.markdup.realigned.bam">5YafM0055Y5aYYYKKSaaa05Y5ff50YSaf5f0fRRaaRRRYR5Y5aR0YSYWSRKRMMRKYMMYRR5aSKaWRRSS5aSMYRSYRRSYMR05Kf5SYRKYYfRf5RYaYRRaRf50?5Y0R5a05fff0WRaYRKWRRYYWYYYR555aa5055000af50aa0ffa5ff55YfRYaf5f005YRY5MYa0YYSYYWYKMYYRRYYM0ff55550fRRKRRYY5SYRR5Ra0Y50aWM5afM55f5YYf55YfYS0Y050Y5f55YRa00a5fWYSf555R5fRfaa5ff505a55a0a50R505af5fYSf55Y5a0RWYYMYRYf5YRKR??????WRf50afRY0RYa55MRYa05Y50f555YRM0Mff5a0KYRY0Y550a55af0SWaRaa500afYYYR5RaKRYf0aWRYaSa0YK5555afa5f5aRaMSYYRfffRYRf0RYfYa5f00K05RRaRWYRaaRa5R5000fa5a00YYY5YSa50R5RRRRYKfa0f00f0ffaRaaaaaY05KRRYRYRWafKYYfM055fYaSY?MfWaR55Y0R5YYYKYf05aYa0a0MMffRf050afa5aaKf505a5K55f0aRYRRYaaff0fRfR00WWRaaY0a5MR0aSY05f5YRfRYYRRWafY05Ya5fKWaYaRaYRf0Y505a5a5aa0fa5550YYR0a00aaf5Y5YRYWR00ff050afa5R0?faRMR0a55RMS00YYa5SYRMf000aaRYfKM5RRRRRa5fKf05ff0aa0f555afa0aa00YYa50a50fffa50aa0SMY5fY5f50WYYY5YMa5YY5RYY5aWYSYa05Wf5a5R5aaaaaSMafMSR550aSRRR5Y00a0a5fSaY5??MfRYYM0ff0fM55aaff0a0aRMMYfKYY5fRYKaa5faaYRYRRSY0aaR5aR5YaRfRa5aYaR05?fafRYSaYRfYKRf0fa00fRf0faa5faff5W0Ya50fRRRWYRRRRRf005R0ff0faKRYafYaWRaSRfaa5RY5Ka?YYfa55RRK555aaRYMK0af5aRRMY0YYYSKMW5R5YfYSfK?0f55fRffSYRRYRSf05f55RYM0afa5YaYS0f0a5a5R0055a0aR0fR0YaaRYaR0fRM5R5fR0W5RMY05RR550RaafffMYfaa5f0MRSYSKRRY5fafSYSMRRRRf0f5S5Y5aMa5aaRfafR5aM5R0RSRYRaW5f55YaMa00a0aa5KRaRSR5MSfa5050af5f5Y5R00YRSRfRf0aa55a555Ra50f05afYM5aYMSSKa5KY0aR00aa5a5aaKYRaYYaRRWWWYYSaMRYRYYYYSKKRSYYRYSYYRRRMKKKKSKKS0W5fa5a5afKYaKRWW5WWKRRSWRfa5MRRfWS5fK5MY500W5KSSRMRWWYaSa0f0a5a55f5005faf5????????????????????????R5ffa555R5Sf5YRRY0Y0Y5YaYff0a555aaR05R5f5ffYRYRf0050fR0YYRR?5RfaM050YR5RRYK5RYYfKYSf0aa50Y55Mf5YR5Y55YWafff55fYKRf5fYYR55YR00YM05aYKaYRRM5?aYM5RSfKR0fY50SYM50Y50R5Ra</sequence>
+    <sequence taxon="17030P3A01_S9_001.markdup.realigned.bam">Y5Rf0MR5S5f0Y5YKKSKSKWYYYWYYRYSRYYfRYRRKaRRRYRS5YRaR???WSaKR?Ma??M???05aSaR0005aSaa0fR55aRSYMR?5KY555af55f0f5RfaY0aRRY50f5YfR5R05ff50fRaf0KWRRYYWY5fRY55aRMaSS0aRKYYMf0RYYK55555YYaYRY?KRRYYRY5MYa05YS550YaM5faRf??RYY5f550f0RKRR5YY5f0aYRRRffaRf05RfMff5Yf5KY5YY5aa50f055555??000aY5?f5f5550ffaYSRYYKY05RYYRRSMRa5RYaYfffa5Y05500RWY5MYaYK5????555f50f00fWKYRf00Y?55MRfa05YY0f55Y5??RMYYSaRffa5R5af?a5YR50aWR?aa?RRSYYf5RYRKK055aR00faaa0fK555YR?R5K5aaa5SYfafYWa?05MRffYRff00f0500aRWY?aaa??0faR0faMaMRYY5Y5S0afaf??RRYKfaRYMRYRWKaR0aaa05RYaa0fa5RWKYKf55005YffR55R0f?RRYffaRYf55K5Ya5afa0fR?50f?fWMMKWS5R?aff5YRfffff?RRYRRYRaKY0YR5?0RW0aRRfRRM5R0a?fRYf5YRY05f0aWafYR?5aYK?fRfSR0Ya5WY505aYR5Sa0fK5050ffa050RS0fYf5f05fa0MfYWSM??aYaaSfR0MR00fMR0aRRff0Ya5a0Y0R000Rf5f55?RR?RaYYKf0555aRSRfS5??YSaRR005fff5fMRKW5RfR0a0?Mf05YY5f0ff55Yf5??Y?Yaf55a0fSY5050YYKYaYSR0Raa0RY05af5RaSRRaMfMRRMKYY5?5f5a5Y0ff005Y05?YYRaYY00??a00fY??Y5YRYKR5fYRS50fRRafaaa0??a?5aaf0a5aYSRR5f5afaYSRYRYYKRfRY0aaYRfRYKaYf0YYYW0YSYaKRR0fYRRRRRf0RYR0ffRY0f?5555Rf00SRfRKS0f5?aM55?Rf5RRa50YaRRYM??R5YKRa0Y055YSa5W5a55f5SYKR0f55YRYYSYRRYRSf05f5Yaf050fa5505aa???????0055aWa05Y0R?K0RYa0Mf0??05fRR0Y?0fR5a0f50a0RYfYM?5R5YYaMRSY5aaRYYY5YafaMRRRRfMf5SffMRMR???0fafRMa55R0050fRRW5YY55a5SMRRWKRfa0aa5a5MSff?ffaaY5?5f50RRYRSRfRf0aa55a5550a50f05af505aYMa5aa5K5RRRaaRaMa5aRKYRRYff0a0005Yaa5a5a5fff5afaaf5a5aff0000fafa5fa5005fa5a5afa5af0f05ffaa0af0fa5000ffa5ff50f50005f5aa00f05a5a0f0a5a55f5005faf5fafaf05YfafffYYYKWRYWYRRR5ffa555afa50f00f05R5YYa5fYf0f55aaaR50555ffY??RY0MYWf00f500Rf0faM5005R5aafa5a5Yff5afMSSY0Y5Y0WSYaMY5Sf0KfK?faaYaaf5f55R5f5aa?f55ffffR?R0Mffa5??05YaRR5Y50S5MfWfYR0YRK</sequence>
+    <sequence taxon="17030P3C01_S33_001.markdup.realigned.bam">5YRYMMRMS5f05f5af5KSKWY5YWYYR55RYYYRY00f5000faS5YRaRf5505aaa05af500f00YSSKR??????Ra0fR?5Raaf5a05??Y55af5ff0fYaY0f?RaRY?0fY50a5R0YKYYRfaRfRa00a5YWf5fRYYYRaMRSSRRRKYYMKRRYfa5Yf5S?YRYRYYK?afY0Y555KMYYS5Y?YKMYYRRYf5RYYYY55WW0Rfa05f5SYRa5aR0YY0aWM5Rf5??f??5K5YfY5aRf0?MfYY?YYRR00?YYfY5YSM0a5fRYSa5ff5afa5YR0SMaRYR5aYYWYaf5??YR?a0?5MYRYfYYRKR555f50WRWY0af??RR?a5aMa??05f?0f5Y55a5R0ff5R?KYRfa5afR?YYaf?SW?RKKY0Ra?YYf0YRKKR5f0aW0faSRR5KS5Yf05aSKfRRRMa5??5YWaYRY0R5ff0???0fRYaa0RfYRR??aSafaaa5aMaMRYYYYfSaSWafaaRaffYa?f?0f0ff?aRaaRa?0Yaa??a50Wafff55?f05Y?aS500?fa05Yf??fY55K5fRff?a?K0M??Y0f05MKWSYRaKf?050f?YfY0R0YR???RffRfRY0a00Waaa50a5M?0R5faYY????aYYRR?R5?0Y5?YKKWRfSRa5R??5505RYaYaaMYa5MYMYYR??a?SaYYf5YR5WRMMffWaM05a5?RaY????RR5M?0aRR5f0YS5a0fR0R00aY?KM?a00aRaY5K?WYff0aa0YS5MKfS?aaaRYYKYMK5RKWYRY0?RaS5f055?55MWYYYfY?RS?ffafYYRW???SRS0f5aYR??????S5RfMSaf0aSS0aR5?00aMaff?aYYMRMf????R?50Y5???R5f5aRaa00YfKYf?YR5f???faa5RYRRaf0RRR5aa550RY0aYa55Ra50?SYRYSaYRfYKRY0YRRRf?5RYK5YY0ff5WWf??0f00a0?RRRaR05??a0aY05aKaYSfY0f00SRYRf5a55KSM5YYRfYRaKY050aa55aaaY5aRRMf0555aa5f5a55YY5YfRR5YY50ffa5aa5a5f05f5YRf00R?RY505a0YaRfSSaR??Y0f00MYa0faR05a0MYa5fR5faRW5RMYa0a0Y50RaaffYMYYaa5fRMRSYSKRRfYY5Y5fa5RaRaf0f5Sff5a5RSaR0fRYR5005?0?SRY?00fYY55a5a00a0aaYKaRaSaf5af?YffRR??Y5Y5?00Y0505?KRSRYYRYMMRKSRWRYKY50YKYMSSKa5a5RRaRRR05RYRRaY?Rf?KRR0005Yaa5a5a5fff5afaaf5a5aff0Ra0fafa5faSW0YfSMRYRKK5KKRWWSWWKaRSWRYKS0RRf??????????????????????????????RMYYYRRSK???YRYRYRYYYSYKKYYYKWRYW5aa?YYYRY55Rfa50f0Rf05R55YR?0f?R5fYS0aRM05?Y??YRfRf0MYf?RR550?RYRYaMMMR505aafaYRf5Yf5S5MSaYR5550fSYa5Y55YWKff5faa5aafYY5fa55fRaRf5MYaYKR5RR5YYfY5505YaRR?fMaaY0?f?Y005aK</sequence>
+</data>
+
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+<run id="mcmc" spec="MCMC" chainLength="300000000">
+    <state id="state" spec="State" storeEvery="100000">
+        <tree id="Tree.t:dna" spec="beast.evolution.tree.Tree" name="stateNode">
+            <taxonset id="TaxonSet.dataname" spec="TaxonSet">
+                <alignment idref="17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16"/>
+            </taxonset>
+        </tree>
+        <parameter id="bPopSizes.t:dna" spec="parameter.RealParameter" dimension="4" lower="0.0" name="stateNode">380.0</parameter>
+        <stateNode id="bGroupSizes.t:dna" spec="parameter.IntegerParameter" dimension="4">1</stateNode>
+        <parameter id="gammaShape.s:dna" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="freqParameter.s:dna" spec="parameter.RealParameter" dimension="16" lower="0.0" name="stateNode" upper="1.0">0.0625</parameter>
+		<parameter id="rates" spec="parameter.RealParameter" dimension="6" keys="AC AG AT CG CT GT" lower="0.0" name="stateNode">1.0 1.0 1.0 1.0 1.0 1.0</parameter>
+		<parameter id="error.delta" spec="parameter.RealParameter" name="stateNode">0.1</parameter>
+		<parameter id="error.epsilon" spec="parameter.RealParameter" name="stateNode">0.1</parameter>		
+        <parameter id="ORCsigma.c:dna" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.2</parameter>
+        <parameter id="ORCRates.c:dna" spec="parameter.RealParameter" dimension="124" lower="0.0" name="stateNode">0.5</parameter>
+    </state>
+
+    <init id="ClusterTree.t:dna" spec="beast.util.ClusterTree" clusterType="upgma" estimate="false" initial="@Tree.t:dna" taxa="@17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16"/>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+	
+        <distribution id="prior" spec="util.CompoundDistribution">
+		
+            <distribution id="BayesianSkyline.t:dna" spec="BayesianSkyline" groupSizes="@bGroupSizes.t:dna" popSizes="@bPopSizes.t:dna">
+                <treeIntervals id="BSPTreeIntervals.t:dna" spec="TreeIntervals" tree="@Tree.t:dna"/>
+            </distribution>
+			
+            <distribution id="MarkovChainedPopSizes.t:dna" spec="beast.math.distributions.MarkovChainDistribution" jeffreys="true" parameter="@bPopSizes.t:dna"/>
+            <prior id="ORCRatePriorDistribution.c:dna" name="distribution" x="@ORCRates.c:dna">
+                <LogNormal id="LogNormalDistributionModel.1" S="@ORCsigma.c:dna" meanInRealSpace="true" name="distr">
+                    <parameter id="RealParameter.20" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                </LogNormal>
+            </prior>
+			
+            <prior id="ORCsigmaPrior.c:dna" name="distribution" x="@ORCsigma.c:dna">
+                <Gamma id="Gamma.8" name="distr">
+                    <parameter id="RealParameter.21" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.22" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+           
+			<prior id="FrequenciesPrior.s:dna" name="distribution" x="@freqParameter.s:dna">
+				<distr id="Dirichlet1" spec="beast.math.distributions.Dirichlet">
+					<parameter id="RealParameter1" spec="parameter.RealParameter" dimension="16" estimate="false" name="alpha">3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0 3.0</parameter>
+				</distr>
+			</prior>
+						
+            <prior id="GammaShapePrior.s:dna" name="distribution" x="@gammaShape.s:dna">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" estimate="false" name="mean">1.0</parameter>
+                </Exponential>
+            </prior>
+			
+			<prior id="rates.prior" name="distribution" x="@rates">
+				<distr id="Dirichlet" spec="beast.math.distributions.Dirichlet">
+					<parameter id="RealParameter" spec="parameter.RealParameter" dimension="6" estimate="false" name="alpha">1.0 2.0 1.0 1.0 2.0 1.0</parameter>
+				</distr>
+			</prior>
+			
+			<prior id="epsilon.prior" name="distribution" x="@error.epsilon">
+				<distr id="Beta1" spec="beast.math.distributions.Beta">
+					<parameter id="RealParameter6" spec="parameter.RealParameter" name="alpha">2.0</parameter>
+					<parameter id="RealParameter7" spec="parameter.RealParameter" name="beta">18.0</parameter>
+				</distr>
+			</prior>
+			
+			<prior id="delta.prior" name="distribution" x="@error.delta">
+				<distr id="Beta" spec="beast.math.distributions.Beta">
+					<parameter id="RealParameter2" spec="parameter.RealParameter" name="alpha">1.5</parameter>
+					<parameter id="RealParameter3" spec="parameter.RealParameter" name="beta">4.5</parameter>
+				</distr>
+			</prior>
+	
+        </distribution>
+		
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+		
+            <distribution id="treeLikelihood.dataname" spec="BeagleTreeLikelihoodWithError" data="@17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16" tree="@Tree.t:dna" useTipLikelihoods="true" useAmbiguities="true">
+			
+				<errorModel spec="GT16ErrorModel" id="errorModel" delta="@error.delta" epsilon="@error.epsilon">
+					<datatype id="datatype" spec="NucleotideDiploid16"/>
+				</errorModel>
+				
+                <siteModel id="SiteModel.s:dna" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:dna">					
+                    <parameter id="mutationRate.s:dna" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="proportionInvariant.s:dna" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+					<substModel id="gt16.s:dna" spec='GT16' nucRates="@rates">
+						<frequencies frequencies="@freqParameter.s:dna" id="estimatedFreqs" spec="Frequencies"/>
+					</substModel>					
+                </siteModel>
+				
+                <branchRateModel id="OptimisedRelaxedClock.c:dna" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" rates="@ORCRates.c:dna" tree="@Tree.t:dna">
+                    <LogNormal id="ORCLogNormalDistributionModel.c:dna" S="@ORCsigma.c:dna" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.19" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                    </LogNormal>
+                    <parameter id="ORCucldMean.c:dna" spec="parameter.RealParameter" estimate="false" name="clock.rate">1</parameter>
+                </branchRateModel>			
+				
+            </distribution>
+			
+        </distribution>
+		
+    </distribution>
+
+    <operator id="BayesianSkylineTreeScaler.t:dna" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:dna" weight="3.0"/>
+
+    <operator id="BayesianSkylineTreeRootScaler.t:dna" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:dna" weight="3.0"/>
+
+    <operator id="BayesianSkylineUniformOperator.t:dna" spec="Uniform" tree="@Tree.t:dna" weight="30.0"/>
+
+    <operator id="BayesianSkylineSubtreeSlide.t:dna" spec="SubtreeSlide" tree="@Tree.t:dna" weight="15.0"/>
+
+    <operator id="BayesianSkylineNarrow.t:dna" spec="Exchange" tree="@Tree.t:dna" weight="0.0"/>
+
+    <operator id="BayesianSkylineWide.t:dna" spec="Exchange" isNarrow="false" tree="@Tree.t:dna" weight="3.0"/>
+
+    <operator id="BayesianSkylineWilsonBalding.t:dna" spec="WilsonBalding" tree="@Tree.t:dna" weight="3.0"/>
+
+    <operator id="popSizesScaler.t:dna" spec="ScaleOperator" parameter="@bPopSizes.t:dna" weight="15.0"/>
+
+    <operator id="groupSizesDelta.t:dna" spec="DeltaExchangeOperator" integer="true" weight="6.0">
+        <intparameter idref="bGroupSizes.t:dna"/>
+    </operator>
+
+    <operator id="gammaShapeScaler.s:dna" spec="ScaleOperator" parameter="@gammaShape.s:dna" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="FrequenciesExchanger.s:dna" spec="DeltaExchangeOperator" delta="0.0625" autoOptimize="false" weight="3">
+        <parameter idref="freqParameter.s:dna"/>
+    </operator>
+	
+	<operator id="FrequenciesExchanger.1" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>	
+	<operator id="FrequenciesExchanger.2" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>	
+	<operator id="FrequenciesExchanger.3" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesExchanger.4" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesExchanger.5" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>	
+	<operator id="FrequenciesExchanger.6" spec="DeltaExchangeOperator" autoOptimize="false" weight="1">
+		<weightvector>0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0</weightvector>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	
+	<operator id="FrequenciesSwap.1" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesSwap.2" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesSwap.3" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesSwap.4" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesSwap.5" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	<operator id="FrequenciesSwap.6" spec="SwapOperator" howMany="1" weight="0.5">
+		<filter>0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0</filter>
+		<parameter idref="freqParameter.s:dna"/>
+	</operator>
+	
+	<operator id="RatesExchanger.s:dna" spec="DeltaExchangeOperator" delta="0.16666666666666666" autoOptimize="false" weight="3.0">
+        <parameter idref="rates"/>
+    </operator>
+
+    <operator id="ORCAdaptableOperatorSampler_sigma.c:dna" spec="orc.operators.AdaptableOperatorSampler" weight="3.0">
+        <parameter idref="ORCsigma.c:dna"/>
+        <operator id="ORCucldStdevScaler.c:dna" spec="consoperators.UcldScalerOperator" distr="@ORCLogNormalDistributionModel.c:dna" rates="@ORCRates.c:dna" scaleFactor="0.5" stdev="@ORCsigma.c:dna" weight="1.0">
+            <kernel id="KernelDistribution$Bactrian.3" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCUcldStdevRandomWalk.c:dna" spec="BactrianRandomWalkOperator" parameter="@ORCsigma.c:dna" scaleFactor="0.1" weight="1.0">
+            <kernelDistribution id="KernelDistribution$Bactrian.4" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCUcldStdevScale.c:dna" spec="BactrianScaleOperator" parameter="@ORCsigma.c:dna" scaleFactor="0.5" upper="10.0" weight="1.0">
+            <kernelDistribution id="KernelDistribution$Bactrian.5" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCSampleFromPriorOperator_sigma.c:dna" spec="orc.operators.SampleFromPriorOperator" parameter="@ORCsigma.c:dna" prior2="@ORCsigmaPrior.c:dna" weight="1.0"/>
+    </operator>
+
+    <operator id="ORCAdaptableOperatorSampler_rates_root.c:dna" spec="orc.operators.AdaptableOperatorSampler" tree="@Tree.t:dna" weight="0.1">
+        <parameter idref="ORCRates.c:dna"/>
+        <operator id="ORCRootOperator1.c:dna" spec="consoperators.SimpleDistance" clockModel="@OptimisedRelaxedClock.c:dna" rates="@ORCRates.c:dna" tree="@Tree.t:dna" twindowSize="0.005" weight="1.0">
+            <kernel id="KernelDistribution$Bactrian.6" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCRootOperator2.c:dna" spec="consoperators.SmallPulley" clockModel="@OptimisedRelaxedClock.c:dna" dwindowSize="0.005" rates="@ORCRates.c:dna" tree="@Tree.t:dna" weight="1.0">
+            <kernel id="KernelDistribution$Bactrian.7" spec="KernelDistribution$Bactrian"/>
+        </operator>
+    </operator>
+
+    <operator id="ORCAdaptableOperatorSampler_rates_internal.c:dna" spec="orc.operators.AdaptableOperatorSampler" tree="@Tree.t:dna" weight="20.0">
+        <parameter idref="ORCRates.c:dna"/>
+        <operator id="ORCInternalnodesOperator.c:dna" spec="consoperators.InConstantDistanceOperator" clockModel="@OptimisedRelaxedClock.c:dna" rates="@ORCRates.c:dna" tree="@Tree.t:dna" twindowSize="0.005" weight="1.0">
+            <kernel id="KernelDistribution$Bactrian.8" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCRatesRandomWalk.c:dna" spec="BactrianRandomWalkOperator" parameter="@ORCRates.c:dna" scaleFactor="0.1" weight="1.0">
+            <kernelDistribution id="KernelDistribution$Bactrian.9" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCRatesScale.c:dna" spec="BactrianScaleOperator" parameter="@ORCRates.c:dna" scaleFactor="0.5" upper="10.0" weight="1.0">
+            <kernelDistribution id="KernelDistribution$Bactrian.10" spec="KernelDistribution$Bactrian"/>
+        </operator>
+        <operator id="ORCSampleFromPriorOperator.rates.c:dna" spec="orc.operators.SampleFromPriorOperator" parameter="@ORCRates.c:dna" prior2="@ORCRatePriorDistribution.c:dna" weight="1.0"/>
+    </operator>
+
+    <operator id="ORCAdaptableOperatorSampler_NER.c:dna" spec="orc.operators.AdaptableOperatorSampler" tree="@Tree.t:dna" weight="15.0">
+        <operator id="ORCNER_null.c:dna" spec="Exchange" tree="@Tree.t:dna" weight="0.0"/>
+        <operator id="ORCNER_dAE_dBE_dCE.c:dna" spec="orc.ner.NEROperator_dAE_dBE_dCE" rates="@ORCRates.c:dna" tree="@Tree.t:dna" weight="1.0"/>
+        <metric id="RobinsonsFouldMetric.0" spec="beast.evolution.tree.RobinsonsFouldMetric" taxonset="@TaxonSet.dataname"/>
+    </operator>
+		
+	<operator id="error.delta.scale" spec="ScaleOperator" parameter="@error.delta" weight="1.0"/>
+
+	<operator id="error.epsilon.scale" spec="ScaleOperator" parameter="@error.epsilon" weight="1.0"/>
+
+    <logger id="tracelog" spec="Logger" fileName="17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16.trace" logEvery="100000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.dataname"/>
+        <log id="TreeHeight.t:dna" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:dna"/>
+        <log idref="BayesianSkyline.t:dna"/>
+        <log idref="bPopSizes.t:dna"/>
+        <log idref="bGroupSizes.t:dna"/>
+        <log idref="gammaShape.s:dna"/>
+        <log idref="freqParameter.s:dna"/>
+		<log idref="rates"/>
+		<log idref="error.delta"/>
+		<log idref="error.epsilon"/>
+        <log idref="ORCsigma.c:dna"/>
+        <log id="ORCRatesStat.c:dna" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@OptimisedRelaxedClock.c:dna" tree="@Tree.t:dna"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="100000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:dna" spec="Logger" fileName="17030.monovar_overlap_sciphi.onlyT.target.80.phylo.gt16.trees" logEvery="100000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:dna" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@OptimisedRelaxedClock.c:dna" tree="@Tree.t:dna"/>
+    </logger>
+
+    <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+
+</run>
+
+</beast>
